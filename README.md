@@ -13,4 +13,4 @@ To use this script, copy and paste it into a new SQL script in an SQL editor, su
 
 ## Tools and Technologies
 
-This script was written using PL/SQL and is compatible with any database that supports PL/SQL. It was tested using Oracle Database 19c and SQL Developer.
+This script was written using PL/SQL and is compatible with any database that supports PL/SQL. It was tested using Toad.
