@@ -1,0 +1,1 @@
+# PLSQL-Project-Automatic-Primary-Key-Sequence-and-Trigger-Creation
